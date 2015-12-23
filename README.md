@@ -1,5 +1,7 @@
 ##Couchbase Reactive Extensions
 
+[![Join the chat at https://gitter.im/couchbaselabs/Rx-Couchbase](https://badges.gitter.im/couchbaselabs/Rx-Couchbase.svg)](https://gitter.im/couchbaselabs/Rx-Couchbase?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Rx-Couchbase is an experimental library designed to extend the [Couchbase .Net SDK](https://github.com/couchbase/couchbase-net-client) to provide a Reactive implementation of bucket get and query operations.
 
 The intention is to have this adopted as a part the Couchbase .Net SDK, or alternatively adopted as a supported Nuget package which extends the SDK.  This decision may vary based on the need to include a dependency on the Reactive Extensions in the Couchbase .Net SDK.
